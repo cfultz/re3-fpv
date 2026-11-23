@@ -82,4 +82,4 @@ Portions of the code, build configuration, debugging notes, and documentation in
 
 ## License
 
-This project is licensed under the **GNU General Public License v3.0** (`GPL-3.0-only`). See the [LICENSE](https://www.google.com/search?q=LICENSE) file for the full license text.
+This project is [licensed](LICENSE.md) under the **GNU General Public License v3.0**.
