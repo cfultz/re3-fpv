@@ -14,10 +14,10 @@ FPV drone simulation integration for the open-source `re3` (*Grand Theft Auto II
 - **Betaflight OSD & Settings Overlay (`F8`):** Renders the Betaflight OSD and interactive `libfpv` overlay via `fpv_render_gl3.h` with OpenGL state preservation.
 - **Drone-Centered Streaming Budget:** Expands `CStreaming::ms_memoryAvailable` while flying and calls `CStreaming::StreamZoneModels` around the drone's position.
 
-## Pre-reqs
+## Known Issues
 
-
-
+- Claude must be looking in the direction you want assets to load in fully. This is based on how the engine works by streaming assets into the FOV for the player to work with memory sizes at the time of release. 
+- If you launch with `Steam` using a controller, Steam may keep priority over `libfpv` so keyboard controls are the only option. I do not have a secondary controller to test with via USB as `libfpv` suggests.
 
 ## Requirements
 
