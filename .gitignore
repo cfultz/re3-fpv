@@ -1,0 +1,9 @@
+build/
+out/
+cmake-build-*/
+fpv_data/
+fpv_data_backup/
+*.swp
+*.swo
+*~
+.DS_Store
