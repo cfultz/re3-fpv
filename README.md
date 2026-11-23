@@ -82,4 +82,4 @@ Portions of the code, build configuration, debugging notes, and documentation in
 
 ## License
 
-This project is [licensed](LICENSE.md) under the **GNU General Public License v3.0**.
+This project is [licensed](LICENSE) under the **GNU General Public License v3.0**.
